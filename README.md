@@ -1,2 +1,2 @@
 # rustLexer
-Lexer is Rust !
+Lexer in Rust !
